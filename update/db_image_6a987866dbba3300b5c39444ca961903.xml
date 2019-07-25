@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="db_image">
+    <db_image action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <format/>
+        <height/>
+        <image>d3c874a6dbba3300b5c39444ca96198b</image>
+        <name>add.f517996efa0575a7a11d.svg</name>
+        <size_bytes>297</size_bytes>
+        <sys_class_name>db_image</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-25 06:12:26</sys_created_on>
+        <sys_id>6a987866dbba3300b5c39444ca961903</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>add.f517996efa0575a7a11d.svg</sys_name>
+        <sys_package display_value="aug03" source="x_174999_ll">ed91c15adb323300b5c39444ca96196d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="aug03">ed91c15adb323300b5c39444ca96196d</sys_scope>
+        <sys_update_name>db_image_6a987866dbba3300b5c39444ca961903</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-25 06:12:57</sys_updated_on>
+        <thumbnail/>
+        <width/>
+    </db_image>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>734003</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/svg+xml</content_type>
+        <file_name>image</file_name>
+        <image_height/>
+        <image_width/>
+        <size_bytes>297</size_bytes>
+        <size_compressed>226</size_compressed>
+        <state/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-25 06:12:57</sys_created_on>
+        <sys_id>d3c874a6dbba3300b5c39444ca96198b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-25 06:12:57</sys_updated_on>
+        <table_name>ZZ_YYdb_image</table_name>
+        <table_sys_id>6a987866dbba3300b5c39444ca961903</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="image" sys_id="d3c874a6dbba3300b5c39444ca96198b">d3c874a6dbba3300b5c39444ca96198b</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-25 06:12:57</sys_created_on>
+        <sys_id>17c874a6dbba3300b5c39444ca96198b</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>VZA9a8MwEIZ3/4rjsqTQ6Mt1QoPloZOXrh66BIEkS9QfwRZWfn5VORQ63HHvw3u83NXr1sNjHKZVogvhfqU0xkhiSealp4IxRpMDIXodnEQhCH9DcMb3LvzJzZv4MT8kMmCQ2d6xKQDquwoOvJaotL6JG4JWQZ0mNZqM4CheEpP4KXjaeX0n1blsOSfV5dKxNstuh2wThPHyybLdZdLt9jajL4SwqGm18zJKzOOggjkyUkGqFGb9MEg8WGsR1rDM3+a/Oj2v5Uibov59QFP8APhKYf0pAQAA</data>
+        <length>288</length>
+        <position>1</position>
+        <sys_attachment display_value="image" sys_id="d3c874a6dbba3300b5c39444ca96198b">d3c874a6dbba3300b5c39444ca96198b</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-25 06:12:57</sys_created_on>
+        <sys_id>97c874a6dbba3300b5c39444ca96198b</sys_id>
+    </sys_attachment_doc>
+</record_update>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="sfa_opportunity" max_length="40" name="x_174999_ll_sfa_opportunity" type="collection">
+        <element label="Id" max_length="15" name="id" type="field_name"/>
+        <element label="Name" max_length="30" name="name" type="field_name"/>
+        <element label="Type" max_length="10" name="type" type="glide_list"/>
+    </element>
+</database>
