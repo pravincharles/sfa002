@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="type" table="x_174999_ll_sfa_opportunity" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Direct</label>
+            <language>en</language>
+            <name>x_174999_ll_sfa_opportunity</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-25 06:53:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4be1016edbba3300b5c39444ca9619e4</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-25 07:33:59</sys_updated_on>
+            <value>Direct</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>InDirect</label>
+            <language>en</language>
+            <name>x_174999_ll_sfa_opportunity</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-25 06:54:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4d528d2edbba3300b5c39444ca96194e</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-25 07:34:05</sys_updated_on>
+            <value>InDirect</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <name>x_174999_ll_sfa_opportunity</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-25 06:53:54</sys_created_on>
+            <sys_id>db22cd2edbba3300b5c39444ca961936</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>type</sys_name>
+            <sys_package display_value="aug03" source="x_174999_ll">ed91c15adb323300b5c39444ca96196d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="aug03">ed91c15adb323300b5c39444ca96196d</sys_scope>
+            <sys_update_name>sys_choice_x_174999_ll_sfa_opportunity_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-25 06:53:54</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

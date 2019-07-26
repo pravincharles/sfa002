@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="id" label="Id" language="en" table="x_174999_ll_sfa_opportunity">
+    <sys_documentation element="account" label="Account" language="en" table="x_174999_ll_sfa_opportunity">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>id</element>
+            <element>account</element>
             <help/>
             <hint/>
-            <label>Id</label>
+            <label>Account</label>
             <language>en</language>
             <name>x_174999_ll_sfa_opportunity</name>
-            <plural>Ids</plural>
+            <plural>Accounts</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-25 06:33:54</sys_created_on>
-            <sys_id>129db46adbba3300b5c39444ca9619b2</sys_id>
+            <sys_created_on>2019-07-25 07:32:21</sys_created_on>
+            <sys_id>eafa4de2dbfa3300b5c39444ca9619a6</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Id</sys_name>
+            <sys_name>Account</sys_name>
             <sys_package display_value="aug03" source="x_174999_ll">ed91c15adb323300b5c39444ca96196d</sys_package>
             <sys_policy/>
             <sys_scope display_value="aug03">ed91c15adb323300b5c39444ca96196d</sys_scope>
-            <sys_update_name>sys_documentation_x_174999_ll_sfa_opportunity_id_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_174999_ll_sfa_opportunity_account_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-25 06:33:54</sys_updated_on>
+            <sys_updated_on>2019-07-25 07:32:21</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

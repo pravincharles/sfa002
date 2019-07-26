@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="name" table="x_174999_ll_sfa_opportunity">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="stage" table="x_174999_ll_sfa_opportunity">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -14,10 +14,10 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Name</column_label>
+        <column_label>Stage</column_label>
         <comments/>
         <create_roles/>
-        <default_value/>
+        <default_value>Initial</default_value>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -27,14 +27,14 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>name</element>
+        <element>stage</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="String">string</internal_type>
+        <internal_type display_value="">glide_list</internal_type>
         <mandatory>false</mandatory>
-        <max_length>30</max_length>
+        <max_length>4000</max_length>
         <name>x_174999_ll_sfa_opportunity</name>
         <next_element/>
         <primary>false</primary>
@@ -52,16 +52,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-07-25 06:33:53</sys_created_on>
-        <sys_id>852dfc2adbba3300b5c39444ca9619d9</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>Name</sys_name>
+        <sys_created_on>2019-07-25 06:52:21</sys_created_on>
+        <sys_id>6d1185aadbba3300b5c39444ca961939</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Stage</sys_name>
         <sys_package display_value="aug03" source="x_174999_ll">ed91c15adb323300b5c39444ca96196d</sys_package>
         <sys_policy/>
         <sys_scope display_value="aug03">ed91c15adb323300b5c39444ca96196d</sys_scope>
-        <sys_update_name>sys_dictionary_x_174999_ll_sfa_opportunity_name</sys_update_name>
+        <sys_update_name>sys_dictionary_x_174999_ll_sfa_opportunity_stage</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-07-25 06:49:56</sys_updated_on>
+        <sys_updated_on>2019-07-25 06:52:21</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

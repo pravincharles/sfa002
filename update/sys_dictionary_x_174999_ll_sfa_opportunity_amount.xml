@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="id" table="x_174999_ll_sfa_opportunity">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="amount" table="x_174999_ll_sfa_opportunity">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -14,27 +14,27 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Id</column_label>
+        <column_label>Amount</column_label>
         <comments/>
         <create_roles/>
-        <default_value/>
+        <default_value>0</default_value>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
         <dependent_on_field/>
-        <display>false</display>
+        <display>true</display>
         <dynamic_creation>false</dynamic_creation>
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>id</element>
+        <element>amount</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="">field_name</internal_type>
+        <internal_type display_value="Currency">currency</internal_type>
         <mandatory>false</mandatory>
-        <max_length>15</max_length>
+        <max_length>20</max_length>
         <name>x_174999_ll_sfa_opportunity</name>
         <next_element/>
         <primary>false</primary>
@@ -52,16 +52,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-07-25 06:33:52</sys_created_on>
-        <sys_id>77ecfc2adbba3300b5c39444ca9619d8</sys_id>
+        <sys_created_on>2019-07-25 07:38:42</sys_created_on>
+        <sys_id>fbfa4de2dbfa3300b5c39444ca9619b0</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Id</sys_name>
+        <sys_name>Amount</sys_name>
         <sys_package display_value="aug03" source="x_174999_ll">ed91c15adb323300b5c39444ca96196d</sys_package>
         <sys_policy/>
         <sys_scope display_value="aug03">ed91c15adb323300b5c39444ca96196d</sys_scope>
-        <sys_update_name>sys_dictionary_x_174999_ll_sfa_opportunity_id</sys_update_name>
+        <sys_update_name>sys_dictionary_x_174999_ll_sfa_opportunity_amount</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-07-25 06:33:52</sys_updated_on>
+        <sys_updated_on>2019-07-25 07:38:42</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
